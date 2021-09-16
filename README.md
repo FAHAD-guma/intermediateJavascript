@@ -1,2 +1,2 @@
 # intermediateJavascript
-Programming js interview questions
+Js programming interview questions
